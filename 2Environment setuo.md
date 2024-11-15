@@ -1,8 +1,0 @@
-2. Environment Setup
-
-Operating System: [Specify the OS, e.g., Ubuntu 20.04, macOS Monterey]
-Node.js Version: [Specify the version, e.g., v14.17.0]
-Aiken Version: 1.1.5
-Other Required Tools:
-Git
-[Any other tools, e.g., Docker, if applicable]
